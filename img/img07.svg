@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1005 600" style="enable-background:new 0 0 1005 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#CCCCCC;}
+	.st2{fill:#FF7F0E;}
+	.st3{fill:#1F77B4;}
+	.st4{fill:#2CA02C;}
+	.st5{fill:#9467BD;}
+	.st6{fill:#D62728;}
+	.st7{font-family:'ArialMT';}
+	.st8{font-size:7px;}
+	.st9{font-size:10px;}
+	.st10{font-size:6px;}
+	.st11{enable-background:new    ;}
+	.st12{font-size:5px;}
+	.st13{font-family:'Arial-BoldMT';}
+	.st14{font-size:12px;}
+</style>
+<rect id="backgorund" class="st0" width="1005" height="600"/>
+<g id="viz" transform="translate(20,20)">
+	<g id="nodes">
+		<g transform="translate(383.5,281)">
+			<path id="p_945.5" class="st1" d="M3.1,275.8c-154.6,0-280-125.4-280-280s125.4-280,280-280s280,125.4,280,280
+				S157.8,275.8,3.1,275.8z"/>
+		</g>
+		<g id="Asia" transform="translate(286.3628664288663,311.91211327559347)">
+			<path id="p_744.3958698854107" class="st1" d="M3.1,140.9C-77,140.9-142,75.9-142-4.2S-77-149.3,3.1-149.3s145.1,65,145.1,145.1
+				S83.3,140.9,3.1,140.9z"/>
+		</g>
+		<g id="Africa" transform="translate(524.011570887815,311.91211327559347)">
+			<path id="p_927.7076215946281" class="st1" d="M3.1,86.6c-50.1,0-90.8-40.6-90.8-90.8S-47-95,3.1-95S93.9-54.3,93.9-4.2
+				S53.3,86.6,3.1,86.6z"/>
+		</g>
+		<g id="Europe" transform="translate(450.77956680312985,467.8026997528325)">
+			<path id="p_999.2891798287023" class="st1" d="M3.1,75.5c-44,0-79.7-35.7-79.7-79.7s35.7-79.7,79.7-79.7S82.8-48.2,82.8-4.2
+				S47.2,75.5,3.1,75.5z"/>
+		</g>
+		<g id="South_America" transform="translate(449.6065413038405,162.28670741056982)">
+			<path id="p_687.4698045398457" class="st1" d="M3.1,70.4C-38,70.4-71.4,37-71.4-4.2S-38-78.8,3.1-78.8S77.7-45.4,77.7-4.2
+				S44.3,70.4,3.1,70.4z"/>
+		</g>
+		<g id="North_America" transform="translate(314.9964364486606,90.79885540100352)">
+			<path id="p_482.89005958103303" class="st1" d="M3.1,71.9c-42,0-76.1-34.1-76.1-76.1s34.1-76.1,76.1-76.1S79.2-46.2,79.2-4.2
+				S45.2,71.9,3.1,71.9z"/>
+		</g>
+		<g id="China" transform="translate(229.655057946485,311.91211327559347)">
+			<path id="p_629.2363760738699" class="st1" d="M3.1,82.5c-47.9,0-86.7-38.8-86.7-86.7s38.8-86.7,86.7-86.7c0,0,0,0,0,0
+				c47.9,0,86.7,38.8,86.7,86.7S51,82.5,3.1,82.5C3.2,82.5,3.1,82.5,3.1,82.5z"/>
+		</g>
+		<g id="India" transform="translate(373.90400970404676,311.91211327559347)">
+			<path id="p_742.6519930386326" class="st1" d="M3.1,51.6c-30.8,0-55.8-25-55.8-55.8C-52.7-35-27.7-60,3.1-60c0,0,0,0,0,0
+				C34-60,59-35,59-4.2C59,26.6,34,51.6,3.1,51.6C3.1,51.6,3.1,51.6,3.1,51.6z"/>
+		</g>
+		<g id="Pakistan" transform="translate(324.9879471974746,391.1967661526917)">
+			<path id="p_752.7652442079838" class="st1" d="M3.1,31.4c-19.7,0-35.6-15.9-35.6-35.6s15.9-35.6,35.6-35.6S38.7-23.8,38.7-4.2
+				S22.8,31.4,3.1,31.4z"/>
+		</g>
+		<g id="Japan" transform="translate(323.2399849055763,243.68296005335446)">
+			<path id="p_595.3259066367528" class="st1" d="M3.1,23.2c-15.1,0-27.4-12.3-27.4-27.4S-12-31.6,3.1-31.6S30.5-19.3,30.5-4.2
+				S18.3,23.2,3.1,23.2z"/>
+		</g>
+		<g id="Indonesia" transform="translate(280.766701100387,211.90360734431778)">
+			<path id="p_517.5697430766753" class="st1" d="M3.1,19.7C-10.1,19.7-20.8,9-20.8-4.2s10.7-23.9,23.9-23.9S27-17.4,27-4.2
+				S16.3,19.7,3.1,19.7z"/>
+		</g>
+		<g id="Nigeria" transform="translate(481.2262216513944,313.8954937025345)">
+			<path id="p_827.129896868472" class="st1" d="M3.1,26.8c-17.1,0-31-13.9-31-31s13.9-31,31-31s31,13.9,31,31S20.3,26.8,3.1,26.8z"
+				/>
+		</g>
+		<g id="Egypt" transform="translate(554.3647457966089,313.8954937025345)">
+			<path id="p_909.6467052830369" class="st1" d="M3.1,36.2c-22.3,0-40.4-18.1-40.4-40.4s18.1-40.4,40.4-40.4c0,0,0,0,0,0
+				c22.3,0,40.4,18.1,40.4,40.4S25.5,36.2,3.1,36.2C3.1,36.2,3.1,36.2,3.1,36.2z"/>
+		</g>
+		<g id="Democratic_Republic_of_the_Congo" transform="translate(510.1228278316262,360.86625872075115)">
+			<path id="p_894.3847082431848" class="st1" d="M3.1,18.2c-12.4,0-22.4-10-22.4-22.4s10-22.4,22.4-22.4c0,0,0,0,0,0
+				c12.4,0,22.4,10,22.4,22.4S15.5,18.2,3.1,18.2C3.1,18.2,3.1,18.2,3.1,18.2z"/>
+		</g>
+		<g id="Somalia" transform="translate(510.5162670056347,270.8332925089826)">
+			<path id="p_801.6768629820226" class="st1" d="M3.1,15.1c-10.7,0-19.3-8.7-19.3-19.3s8.7-19.3,19.3-19.3c0,0,0,0,0,0
+				c10.7,0,19.3,8.7,19.3,19.3S13.8,15.1,3.1,15.1C3.1,15.1,3.1,15.1,3.1,15.1z"/>
+		</g>
+		<g id="Sudan" transform="translate(549.9297654270574,373.4787529992533)">
+			<path id="p_942.0262622863238" class="st1" d="M3.1,13.4c-9.7,0-17.6-7.9-17.6-17.6s7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6
+				S12.9,13.4,3.1,13.4z"/>
+		</g>
+		<g id="Angola" transform="translate(545.3391890087163,255.46657942395794)">
+			<path id="p_818.7973227531722" class="st1" d="M3.1,12.8c-9.4,0-17-7.6-17-17s7.6-17,17-17c0,0,0,0,0,0c9.4,0,17,7.6,17,17
+				S12.5,12.8,3.1,12.8C3.1,12.8,3.1,12.8,3.1,12.8z"/>
+		</g>
+		<g id="Tanzania" transform="translate(473.51179239647803,265.4274629318718)">
+			<path id="p_756.265322700547" class="st1" d="M3.1,12.1c-9,0-16.3-7.3-16.3-16.3s7.3-16.3,16.3-16.3c0,0,0,0,0,0
+				c9,0,16.3,7.3,16.3,16.3S12.2,12.1,3.1,12.1C3.1,12.1,3.1,12.1,3.1,12.1z"/>
+		</g>
+		<g id="Ivory_Coast" transform="translate(470.06511202145987,361.27084856934954)">
+			<path id="p_848.2562210249606" class="st1" d="M3.1,11.7c-8.8,0-15.9-7.1-15.9-15.9s7.1-15.9,15.9-15.9c0,0,0,0,0,0
+				c8.8,0,15.9,7.1,15.9,15.9C19.1,4.6,11.9,11.7,3.1,11.7C3.1,11.7,3.1,11.7,3.1,11.7z"/>
+		</g>
+		<g id="South_Africa" transform="translate(578.5517132348044,262.0101826288022)">
+			<path id="p_856.6774692363872" class="st1" d="M3.1,10.9C-5.2,10.9-12,4.1-12-4.2c0-8.3,6.8-15.1,15.1-15.1c0,0,0,0,0,0
+				c8.3,0,15.1,6.8,15.1,15.1S11.5,10.9,3.1,10.9C3.1,10.9,3.1,10.9,3.1,10.9z"/>
+		</g>
+		<g id="Russia" transform="translate(416.01668041988955,470.6770643941824)">
+			<path id="p_930.775264045601" class="st1" d="M3.1,38.9c-23.8,0-43.1-19.3-43.1-43.1s19.3-43.1,43.1-43.1S46.2-28,46.2-4.2
+				S26.9,38.9,3.1,38.9z"/>
+		</g>
+		<g id="Turkey" transform="translate(488.7265150947214,470.6770643941824)">
+			<path id="p_988.2880180854286" class="st1" d="M3.1,23.7c-15.4,0-27.9-12.5-27.9-27.9c0-15.4,12.5-27.9,27.9-27.9c0,0,0,0,0,0
+				C18.5-32.1,31-19.6,31-4.2C31,11.2,18.5,23.7,3.1,23.7C3.1,23.7,3.1,23.7,3.1,23.7z"/>
+		</g>
+		<g id="United_Kingdom" transform="translate(464.81345065943407,516.7724872950291)">
+			<path id="p_1004.8866381295418" class="st1" d="M3.1,18.1c-12.3,0-22.3-10-22.3-22.3c0-12.3,10-22.3,22.3-22.3c0,0,0,0,0,0
+				c12.3,0,22.3,10,22.3,22.3C25.4,8.1,15.5,18.1,3.1,18.1C3.1,18.1,3.1,18.1,3.1,18.1z"/>
+		</g>
+		<g id="Germany" transform="translate(463.27032191846433,434.1212675672364)">
+			<path id="p_913.3092508829598" class="st1" d="M3.1,10.7c-8.2,0-14.9-6.7-14.9-14.9s6.7-14.9,14.9-14.9c0,0,0,0,0,0
+				c8.2,0,14.9,6.7,14.9,14.9S11.4,10.7,3.1,10.7C3.1,10.7,3.1,10.7,3.1,10.7z"/>
+		</g>
+		<g id="Spain" transform="translate(438.29407306765876,416.0580901430969)">
+			<path id="p_869.5141774114533" class="st1" d="M3.1,10C-4.7,10-11,3.6-11-4.2s6.3-14.2,14.2-14.2S17.3-12,17.3-4.2S11,10,3.1,10z
+				"/>
+		</g>
+		<g id="Ukraine" transform="translate(428.752503670672,527.7484572191556)">
+			<path id="p_971.150731103354" class="st1" d="M3.1,9.5c-7.5,0-13.6-6.1-13.6-13.6s6.1-13.6,13.6-13.6s13.6,6.1,13.6,13.6
+				S10.7,9.5,3.1,9.5z"/>
+		</g>
+		<g id="Italy" transform="translate(492.8116534880317,427.66530151173674)">
+			<path id="p_935.053964482315" class="st1" d="M3.1,9.4c-7.5,0-13.6-6.1-13.6-13.6s6.1-13.6,13.6-13.6s13.6,6.1,13.6,13.6
+				S10.6,9.4,3.1,9.4z"/>
+		</g>
+		<g id="France" transform="translate(500.5547346650079,510.79155263317597)">
+			<path id="p_1024.5399630183738" class="st1" d="M3.1,8C-3.6,8-9.1,2.5-9.1-4.2s5.5-12.2,12.2-12.2s12.2,5.5,12.2,12.2
+				S9.9,8,3.1,8z"/>
+		</g>
+		<g id="Belarus" transform="translate(410.93807950214295,414.5917628962916)">
+			<path id="p_838.0192155320407" class="st1" d="M3.1,7.3C-3.2,7.3-8.4,2.1-8.4-4.2s5.1-11.5,11.5-11.5s11.5,5.1,11.5,11.5
+				S9.5,7.3,3.1,7.3z"/>
+		</g>
+		<g id="Brazil" transform="translate(423.82742282407855,161.55641184293094)">
+			<path id="p_633.4270529841929" class="st1" d="M3.1,42.8c-26,0-47-21.1-47-47s21.1-47,47-47s47,21.1,47,47S29.1,42.8,3.1,42.8z"
+				/>
+		</g>
+		<g id="Peru" transform="translate(495.17510525438297,161.55641184293094)">
+			<path id="p_680.292104363657" class="st1" d="M3.1,18.4c-12.5,0-22.6-10.1-22.6-22.6S-9.3-26.8,3.1-26.8S25.7-16.7,25.7-4.2
+				S15.6,18.4,3.1,18.4z"/>
+		</g>
+		<g id="Colombia" transform="translate(479.35611007315043,204.3459412456727)">
+			<path id="p_706.0175875898752" class="st1" d="M3.1,17.1c-11.8,0-21.3-9.5-21.3-21.3s9.5-21.3,21.3-21.3S24.5-16,24.5-4.2
+				S14.9,17.1,3.1,17.1z"/>
+		</g>
+		<g id="Chile" transform="translate(478.261013372217,122.6449227497564)">
+			<path id="p_620.0301237390993" class="st1" d="M3.1,13.9C-6.9,13.9-15,5.8-15-4.2c0-10,8.1-18.1,18.1-18.1c0,0,0,0,0,0
+				c10,0,18.1,8.1,18.1,18.1C21.3,5.8,13.2,13.9,3.1,13.9C3.1,13.9,3.1,13.9,3.1,13.9z"/>
+		</g>
+		<g id="Venezuela" transform="translate(449.59665370000266,103.8582034094837)">
+			<path id="p_568.8590312504393" class="st1" d="M3.1,10.2c-8,0-14.4-6.4-14.4-14.4s6.4-14.4,14.4-14.4c0,0,0,0,0,0
+				c8,0,14.4,6.4,14.4,14.4S11.1,10.2,3.1,10.2C3.1,10.2,3.1,10.2,3.1,10.2z"/>
+		</g>
+		<g id="Argentina" transform="translate(445.94933881467955,220.2557255171089)">
+			<path id="p_681.14745659531" class="st1" d="M3.1,9.7c-7.7,0-13.9-6.2-13.9-13.9c0-7.7,6.2-13.9,13.9-13.9c0,0,0,0,0,0
+				c7.7,0,13.9,6.2,13.9,13.9C17.1,3.5,10.8,9.7,3.1,9.7C3.1,9.7,3.1,9.7,3.1,9.7z"/>
+		</g>
+		<g id="United_States" transform="translate(281.6228053074324,90.79885540100352)">
+			<path id="p_414.39892045179863" class="st1" d="M3.1,36.8c-22.6,0-41-18.3-41-41s18.3-41,41-41s41,18.3,41,41S25.8,36.8,3.1,36.8
+				z"/>
+		</g>
+		<g id="Mexico" transform="translate(356.84563461541234,90.79885540100352)">
+			<path id="p_481.146182734255" class="st1" d="M3.1,28.3c-18,0-32.5-14.5-32.5-32.5c0-18,14.5-32.5,32.5-32.5c0,0,0,0,0,0
+				c18,0,32.5,14.5,32.5,32.5C35.6,13.7,21.1,28.3,3.1,28.3C3.1,28.3,3.1,28.3,3.1,28.3z"/>
+		</g>
+		<g id="Canada" transform="translate(326.2284582765513,139.86827732991145)">
+			<path id="p_490.68903992567795" class="st1" d="M3.1,19.4c-13,0-23.6-10.6-23.6-23.6S-9.9-27.8,3.1-27.8S26.7-17.2,26.7-4.2
+				S16.2,19.4,3.1,19.4z"/>
+		</g>
+		<g id="Cuba" transform="translate(324.9111854562799,57.48650674356705)">
+			<path id="p_395.2988626736314" class="st1" d="M3.1,7.7C-3.4,7.7-8.8,2.4-8.8-4.2s5.3-11.9,11.9-11.9S15-10.8,15-4.2
+				S9.7,7.7,3.1,7.7z"/>
+		</g>
+		<g id="Shanghai" transform="translate(213.66579995213075,313.9590326780003)">
+			<path id="p_563.0020114474705" class="st2" d="M3.1,30.2c-19,0-34.4-15.4-34.4-34.4s15.4-34.4,34.4-34.4c0,0,0,0,0,0
+				c19,0,34.4,15.4,34.4,34.4S22.1,30.2,3.1,30.2C3.1,30.2,3.1,30.2,3.1,30.2z"/>
+		</g>
+		<g id="Beijing" transform="translate(282.163679827879,313.9590326780003)">
+			<path id="p_629.49953671751" class="st2" d="M3.1,28.2c-17.9,0-32.4-14.5-32.4-32.4s14.5-32.4,32.4-32.4S35.5-22.1,35.5-4.2
+				S21,28.2,3.1,28.2z"/>
+		</g>
+		<g id="Tianjin" transform="translate(249.73508406676942,366.01861620460045)">
+			<path id="p_643.9666283245709" class="st2" d="M3.1,23c-15,0-27.2-12.2-27.2-27.2c0-15,12.2-27.2,27.2-27.2c0,0,0,0,0,0
+				c15,0,27.2,12.2,27.2,27.2C30.4,10.8,18.2,23,3.1,23C3.1,23,3.1,23,3.1,23z"/>
+		</g>
+		<g id="Guangzhou" transform="translate(249.67759784224788,264.2712692417607)">
+			<path id="p_540.1933019057851" class="st2" d="M3.1,21C-10.8,21-22.1,9.7-22.1-4.2c0-13.9,11.3-25.2,25.2-25.2c0,0,0,0,0,0
+				c13.9,0,25.2,11.3,25.2,25.2C28.4,9.7,17.1,21,3.1,21C3.1,21,3.1,21,3.1,21z"/>
+		</g>
+		<g id="Shenzhen" transform="translate(200.68710136095805,256.70812747062297)">
+			<path id="p_480.97777411480405" class="st2" d="M3.1,18.4c-12.5,0-22.6-10.1-22.6-22.6S-9.3-26.8,3.1-26.8c0,0,0,0,0,0
+				c12.5,0,22.6,10.1,22.6,22.6S15.6,18.4,3.1,18.4C3.1,18.4,3.1,18.4,3.1,18.4z"/>
+		</g>
+		<g id="Delhi" transform="translate(348.41110531696137,311.91211327559347)">
+			<path id="p_689.9223074176837" class="st2" d="M3.1,24.4c-15.8,0-28.6-12.8-28.6-28.6s12.8-28.6,28.6-28.6c0,0,0,0,0,0
+				c15.8,0,28.6,12.8,28.6,28.6S18.9,24.4,3.1,24.4C3.1,24.4,3.1,24.4,3.1,24.4z"/>
+		</g>
+		<g id="Mumbai" transform="translate(403.37503695256464,311.91211327559347)">
+			<path id="p_740.9081161918544" class="st2" d="M3.1,20.4c-13.6,0-24.6-11-24.6-24.6s11-24.6,24.6-24.6s24.6,11,24.6,24.6
+				S16.7,20.4,3.1,20.4z"/>
+		</g>
+		<g id="Karachi" transform="translate(324.9879471974746,391.1967661526917)">
+			<path id="p_751.0213673612056" class="st2" d="M3.1,29.6c-18.7,0-33.8-15.1-33.8-33.8S-15.5-38,3.1-38S37-22.9,37-4.2
+				S21.8,29.6,3.1,29.6z"/>
+		</g>
+		<g id="Tokyo" transform="translate(323.2399849055763,243.68296005335446)">
+			<path id="p_593.5820297899749" class="st2" d="M3.1,21.5C-11,21.5-22.5,10-22.5-4.2c0-14.2,11.5-25.7,25.7-25.7c0,0,0,0,0,0
+				c14.2,0,25.7,11.5,25.7,25.7C28.8,10,17.3,21.5,3.1,21.5C3.1,21.5,3.1,21.5,3.1,21.5z"/>
+		</g>
+		<g id="Jakarta" transform="translate(280.766701100387,211.90360734431778)">
+			<path id="p_515.8258662298973" class="st2" d="M3.1,18C-9.1,18-19,8-19-4.2s9.9-22.2,22.2-22.2c0,0,0,0,0,0
+				c12.2,0,22.2,9.9,22.2,22.2S15.4,18,3.1,18C3.1,18,3.1,18,3.1,18z"/>
+		</g>
+		<g id="Lagos" transform="translate(481.2262216513944,313.8954937025345)">
+			<path id="p_825.3860200216939" class="st3" d="M3.1,25.1C-13,25.1-26.1,12-26.1-4.2S-13-33.5,3.1-33.5S32.4-20.4,32.4-4.2
+				S19.3,25.1,3.1,25.1z"/>
+		</g>
+		<g id="Cairo" transform="translate(538.8731465634838,313.8954937025345)">
+			<path id="p_876.9196299700087" class="st3" d="M3.1,19C-9.6,19-20,8.6-20-4.2C-20-17-9.7-27.3,3.1-27.3c0,0,0,0,0,0
+				c12.8,0,23.2,10.4,23.2,23.1C26.3,8.6,15.9,19,3.1,19C3.1,19,3.1,19,3.1,19z"/>
+		</g>
+		<g id="Alexandria" transform="translate(578.3876739239884,313.8954937025345)">
+			<path id="p_907.9028284362588" class="st3" d="M3.1,10.4c-8.1,0-14.6-6.5-14.6-14.6s6.5-14.6,14.6-14.6s14.6,6.5,14.6,14.6
+				S11.2,10.4,3.1,10.4z"/>
+		</g>
+		<g id="Kinshasa-Brazzaville" transform="translate(510.1228278316262,360.86625872075115)">
+			<path id="p_892.6408313964067" class="st3" d="M3.1,16.5c-11.4,0-20.7-9.2-20.7-20.7s9.2-20.7,20.7-20.7c0,0,0,0,0,0
+				c11.4,0,20.7,9.2,20.7,20.7S14.5,16.5,3.1,16.5C3.1,16.5,3.1,16.5,3.1,16.5z"/>
+		</g>
+		<g id="Mogadishu" transform="translate(510.5162670056347,270.8332925089826)">
+			<path id="p_799.9329861352445" class="st3" d="M3.1,13.4c-9.7,0-17.6-7.9-17.6-17.6s7.9-17.6,17.6-17.6s17.6,7.9,17.6,17.6
+				S12.8,13.4,3.1,13.4z"/>
+		</g>
+		<g id="Khartoum-Omdurman" transform="translate(549.9297654270574,373.4787529992533)">
+			<path id="p_940.2823854395457" class="st3" d="M3.1,11.7c-8.8,0-15.9-7.1-15.9-15.9c0-8.8,7.1-15.9,15.9-15.9c0,0,0,0,0,0
+				C11.9-20.1,19-13,19-4.2S11.9,11.7,3.1,11.7C3.1,11.7,3.1,11.7,3.1,11.7z"/>
+		</g>
+		<g id="Luanda" transform="translate(545.3391890087163,255.46657942395794)">
+			<path id="p_817.0534459063942" class="st3" d="M3.1,11c-8.4,0-15.2-6.8-15.3-15.2c0-8.4,6.8-15.2,15.2-15.3c0,0,0,0,0,0
+				c8.4,0,15.2,6.8,15.3,15.2C18.4,4.2,11.6,11,3.1,11C3.1,11,3.1,11,3.1,11z"/>
+		</g>
+		<g id="Dar_es_Salaam" transform="translate(473.51179239647803,265.4274629318718)">
+			<path id="p_754.5214458537689" class="st3" d="M3.1,10.4c-8.1,0-14.6-6.5-14.6-14.6s6.5-14.6,14.6-14.6s14.6,6.5,14.6,14.6
+				S11.2,10.4,3.1,10.4z"/>
+		</g>
+		<g id="Abidjan" transform="translate(470.06511202145987,361.27084856934954)">
+			<path id="p_846.5123441781825" class="st3" d="M3.1,10C-4.7,10-11,3.6-11-4.2s6.3-14.2,14.2-14.2c0,0,0,0,0,0
+				c7.8,0,14.2,6.3,14.2,14.2C17.3,3.6,11,10,3.1,10C3.1,10,3.1,10,3.1,10z"/>
+		</g>
+		<g id="Greater_Johannesburg" transform="translate(578.5517132348044,262.0101826288022)">
+			<path id="p_854.9335923896092" class="st3" d="M3.1,9.2c-7.4,0-13.4-6-13.4-13.4s6-13.4,13.4-13.4s13.4,6,13.4,13.4
+				S10.5,9.2,3.1,9.2z"/>
+		</g>
+		<g id="Moscow" transform="translate(399.1886952172214,470.6770643941824)">
+			<path id="p_895.3754167934865" class="st4" d="M3.1,20.3c-13.5,0-24.5-11-24.5-24.5s11-24.5,24.5-24.5s24.5,11,24.5,24.5
+				S16.7,20.3,3.1,20.3z"/>
+		</g>
+		<g id="Saint_Petersburg" transform="translate(441.3982760253613,470.6770643941824)">
+			<path id="p_929.0313871988229" class="st4" d="M3.1,11.8c-8.8,0-16-7.1-16-16c0-8.8,7.1-16,16-16c0,0,0,0,0,0c8.8,0,16,7.1,16,16
+				C19.1,4.6,12,11.8,3.1,11.8C3.1,11.8,3.1,11.8,3.1,11.8z"/>
+		</g>
+		<g id="Istanbul" transform="translate(488.7265150947214,470.6770643941824)">
+			<path id="p_986.5441412386505" class="st4" d="M3.1,21.9C-11.3,21.9-23,10.2-23-4.2s11.7-26.1,26.1-26.1S29.3-18.6,29.3-4.2
+				S17.6,21.9,3.1,21.9z"/>
+		</g>
+		<g id="London" transform="translate(464.81345065943407,516.7724872950291)">
+			<path id="p_1003.1427612827638" class="st4" d="M3.1,16.4c-11.4,0-20.6-9.2-20.6-20.6s9.2-20.6,20.6-20.6c0,0,0,0,0,0
+				c11.4,0,20.6,9.2,20.6,20.6S14.5,16.4,3.1,16.4C3.1,16.4,3.1,16.4,3.1,16.4z"/>
+		</g>
+		<g id="Berlin" transform="translate(463.27032191846433,434.1212675672364)">
+			<path id="p_911.5653740361817" class="st4" d="M3.1,9C-4.1,9-10,3.1-10-4.2c0-7.3,5.9-13.2,13.2-13.2c0,0,0,0,0,0
+				c7.3,0,13.2,5.9,13.2,13.2S10.4,9,3.1,9C3.1,9,3.1,9,3.1,9z"/>
+		</g>
+		<g id="Madrid" transform="translate(438.29407306765876,416.0580901430969)">
+			<path id="p_867.7703005646752" class="st4" d="M3.1,8.2C-3.7,8.2-9.3,2.7-9.3-4.2c0-6.9,5.6-12.4,12.4-12.4c0,0,0,0,0,0
+				c6.9,0,12.4,5.6,12.4,12.4C15.6,2.7,10,8.2,3.1,8.2C3.1,8.2,3.1,8.2,3.1,8.2z"/>
+		</g>
+		<g id="Kiev" transform="translate(428.752503670672,527.7484572191556)">
+			<path id="p_969.406854256576" class="st4" d="M3.1,7.7C-3.4,7.7-8.8,2.4-8.8-4.2s5.3-11.9,11.9-11.9S15-10.8,15-4.2
+				S9.7,7.7,3.1,7.7z"/>
+		</g>
+		<g id="Rome" transform="translate(492.8116534880317,427.66530151173674)">
+			<path id="p_933.310087635537" class="st4" d="M3.1,7.6C-3.4,7.6-8.7,2.3-8.7-4.2S-3.4-16,3.1-16S15-10.7,15-4.2S9.7,7.6,3.1,7.6z
+				"/>
+		</g>
+		<g id="Paris" transform="translate(500.5547346650079,510.79155263317597)">
+			<path id="p_1022.7960861715957" class="st4" d="M3.1,6.3C-2.6,6.3-7.3,1.6-7.3-4.2s4.7-10.4,10.4-10.4S13.6-10,13.6-4.2
+				S8.9,6.3,3.1,6.3z"/>
+		</g>
+		<g id="Minsk" transform="translate(410.93807950214295,414.5917628962916)">
+			<path id="p_836.2753386852627" class="st4" d="M3.1,5.5c-5.4,0-9.7-4.4-9.7-9.7s4.4-9.7,9.7-9.7c0,0,0,0,0,0
+				c5.4,0,9.7,4.4,9.7,9.7S8.5,5.5,3.1,5.5C3.1,5.5,3.1,5.5,3.1,5.5z"/>
+		</g>
+		<g id="São_Paulo" transform="translate(407.223108153062,166.70666826081077)">
+			<path id="p_599.0766603431883" class="st5" d="M3.1,19.9C-10.2,19.9-21,9.1-21-4.2s10.8-24.1,24.1-24.1c0,0,0,0,0,0
+				c13.3,0,24.1,10.8,24.1,24.1S16.5,19.9,3.1,19.9C3.1,19.9,3.1,19.9,3.1,19.9z"/>
+		</g>
+		<g id="Rio_de_Janeiro" transform="translate(450.87734914402205,166.70666826081077)">
+			<path id="p_636.3474976196992" class="st5" d="M3.1,13.6c-9.8,0-17.8-8-17.8-17.8S-6.7-22,3.1-22s17.8,8,17.8,17.8
+				S12.9,13.6,3.1,13.6z"/>
+		</g>
+		<g id="Salvador" transform="translate(434.1138531098092,193.30116392519562)">
+			<path id="p_640.3446127349125" class="st5" d="M3.1,7.7C-3.4,7.7-8.8,2.4-8.8-4.2c0-6.6,5.3-11.9,11.9-11.9c0,0,0,0,0,0
+				c6.6,0,11.9,5.3,11.9,11.9C15.1,2.4,9.7,7.7,3.1,7.7C3.1,7.7,3.1,7.7,3.1,7.7z"/>
+		</g>
+		<g id="Brasília" transform="translate(434.11198382267827,140.12846405630955)">
+			<path id="p_587.1572600680059" class="st5" d="M3.1,7.7C-3.4,7.7-8.8,2.4-8.8-4.2s5.3-11.9,11.9-11.9s11.9,5.3,11.9,11.9
+				S9.7,7.7,3.1,7.7z"/>
+		</g>
+		<g id="Fortaleza" transform="translate(411.449254343124,129.8214521211289)">
+			<path id="p_553.5064790745505" class="st5" d="M3.1,7C-3.1,7-8.1,2-8.1-4.2s5-11.2,11.2-11.2c0,0,0,0,0,0c6.2,0,11.2,5,11.2,11.2
+				S9.3,7,3.1,7C3.1,7,3.1,7,3.1,7z"/>
+		</g>
+		<g id="Lima" transform="translate(495.17510525438297,161.55641184293094)">
+			<path id="p_678.5482275168789" class="st5" d="M3.1,16.6c-11.5,0-20.8-9.3-20.8-20.8S-8.4-25,3.1-25S24-15.7,24-4.2
+				S14.6,16.6,3.1,16.6z"/>
+		</g>
+		<g id="Bogotá" transform="translate(479.35611007315043,204.3459412456727)">
+			<path id="p_704.2737107430971" class="st5" d="M3.1,15.4c-10.8,0-19.6-8.8-19.6-19.6s8.8-19.6,19.6-19.6S22.7-15,22.7-4.2
+				S13.9,15.4,3.1,15.4z"/>
+		</g>
+		<g id="Santiago" transform="translate(478.261013372217,122.6449227497564)">
+			<path id="p_618.2862468923212" class="st5" d="M3.1,12.2c-9,0-16.4-7.3-16.4-16.4s7.3-16.4,16.4-16.4s16.4,7.3,16.4,16.4
+				S12.2,12.2,3.1,12.2z"/>
+		</g>
+		<g id="Caracas" transform="translate(449.59665370000266,103.8582034094837)">
+			<path id="p_567.1151544036612" class="st5" d="M3.1,8.5c-7,0-12.7-5.7-12.7-12.7s5.7-12.7,12.7-12.7s12.7,5.7,12.7,12.7
+				S10.1,8.5,3.1,8.5z"/>
+		</g>
+		<g id="Buenos_Aires" transform="translate(445.94933881467955,220.2557255171089)">
+			<path id="p_679.403579748532" class="st5" d="M3.1,8C-3.6,8-9.1,2.5-9.1-4.2s5.5-12.2,12.2-12.2s12.2,5.5,12.2,12.2S9.9,8,3.1,8z
+				"/>
+		</g>
+		<g id="New_York_City" transform="translate(267.5185620747336,92.77889610964306)">
+			<path id="p_381.70763760609105" class="st6" d="M3.1,16.2c-11.3,0-20.4-9.1-20.4-20.4s9.1-20.4,20.4-20.4s20.4,9.1,20.4,20.4
+				S14.4,16.2,3.1,16.2z"/>
+		</g>
+		<g id="Los_Angeles" transform="translate(303.5834054124121,92.77889610964306)">
+			<path id="p_411.2730885912413" class="st6" d="M3.1,9.7c-7.7,0-13.9-6.2-13.9-13.9s6.2-13.9,13.9-13.9S17-11.9,17-4.2
+				S10.8,9.7,3.1,9.7z"/>
+		</g>
+		<g id="Chicago" transform="translate(291.0325867452715,116.87347739575107)">
+			<path id="p_420.41887888187" class="st6" d="M3.1,7.3C-3.2,7.3-8.4,2.2-8.4-4.2s5.2-11.5,11.5-11.5s11.5,5.2,11.5,11.5
+				S9.5,7.3,3.1,7.3z"/>
+		</g>
+		<g id="Houston" transform="translate(290.8639314236802,69.83738903295074)">
+			<path id="p_372.27827420904464" class="st6" d="M3.1,6.4C-2.7,6.4-7.4,1.6-7.4-4.2c0-5.8,4.7-10.6,10.6-10.6c0,0,0,0,0,0
+				C9-14.8,13.7-10,13.7-4.2C13.7,1.6,9,6.4,3.1,6.4C3.1,6.4,3.1,6.4,3.1,6.4z"/>
+		</g>
+		<g id="Philadelphia" transform="translate(271.27136347842236,62.11488069074322)">
+			<path id="p_343.124992240617" class="st6" d="M3.1,4.5c-4.8,0-8.7-3.9-8.7-8.7s3.9-8.7,8.7-8.7s8.7,3.9,8.7,8.7S8,4.5,3.1,4.5z"
+				/>
+		</g>
+		<g id="Mexico_City" transform="translate(346.932876991812,90.79885540100352)">
+			<path id="p_459.5767906402763" class="st6" d="M3.1,16.6c-11.5,0-20.8-9.3-20.8-20.8S-8.4-25,3.1-25S24-15.7,24-4.2
+				S14.7,16.6,3.1,16.6z"/>
+		</g>
+		<g id="Ecatepec_de_Morelos" transform="translate(378.56263128626216,90.79885540100352)">
+			<path id="p_479.402305887477" class="st6" d="M3.1,4.8c-5,0-9-4-9-9c0-5,4-9,9-9c0,0,0,0,0,0c5,0,9,4,9,9
+				C12.2,0.8,8.1,4.8,3.1,4.8C3.1,4.8,3.1,4.8,3.1,4.8z"/>
+		</g>
+		<g id="Toronto" transform="translate(316.1148883186215,139.86827732991145)">
+			<path id="p_468.71802316304036" class="st6" d="M3.1,7.5C-3.3,7.5-8.6,2.3-8.6-4.2s5.3-11.7,11.7-11.7s11.7,5.3,11.7,11.7
+				S9.6,7.5,3.1,7.5z"/>
+		</g>
+		<g id="Montreal" transform="translate(338.8352542144477,139.86827732991145)">
+			<path id="p_488.9451630788999" class="st6" d="M3.1,5C-2,5-6.1,0.9-6.1-4.2s4.1-9.2,9.2-9.2c0,0,0,0,0,0c5.1,0,9.2,4.1,9.2,9.2
+				S8.2,5,3.1,5C3.1,5,3.1,5,3.1,5z"/>
+		</g>
+		<g id="Havana" transform="translate(324.9111854562799,57.48650674356705)">
+			<path id="p_393.55498582685334" class="st6" d="M3.1,6C-2.5,6-7,1.4-7-4.2c0-5.6,4.5-10.2,10.2-10.2c0,0,0,0,0,0
+				c5.6,0,10.2,4.5,10.2,10.2C13.3,1.4,8.8,6,3.1,6C3.1,6,3.1,6,3.1,6z"/>
+		</g>
+	</g>
+	<g transform="translate(213.66579995213075,313.9590326780003)">
+		<text transform="matrix(1 0 0 1 -12.1802 2.1834)" class="st7 st8">Shanghai</text>
+	</g>
+	<g transform="translate(282.163679827879,313.9590326780003)">
+		<text transform="matrix(1 0 0 1 -3.8244 -0.9459)" class="st7 st8">Beijing</text>
+	</g>
+	<g transform="translate(249.73508406676942,366.01861620460045)">
+		<text transform="matrix(1 0 0 1 -7.8285 -0.499)" class="st7 st8">Tianjin</text>
+		<text transform="matrix(1 0 0 1 -73.8522 -2.8043)" class="st7 st9">China</text>
+	</g>
+	<text transform="matrix(1 0 0 1 235.4555 263.3253)" class="st7 st8">Guangzhou</text>
+	<text transform="matrix(1 0 0 1 188.0118 255.3151)" class="st7 st8">Shenzhen</text>
+	<g transform="translate(348.41110531696137,311.91211327559347)">
+		<text transform="matrix(1 0 0 1 -4.5234 -0.3935)" class="st7 st8">Delhi</text>
+	</g>
+	<g transform="translate(403.37503695256464,311.91211327559347)">
+		<text transform="matrix(1 0 0 1 -8.1632 -0.6888)" class="st7 st8">Mumbai</text>
+		<text transform="matrix(1 0 0 1 -40.4516 40.6478)" class="st7 st9">India</text>
+	</g>
+	<g transform="translate(324.9879471974746,391.1967661526917)">
+		<text transform="matrix(1 0 0 1 -8.6976 4.0868)" class="st7 st8">Karachi</text>
+		<text transform="matrix(1 0 0 1 -15.6975 -17.2004)" class="st7 st9">Pakistán</text>
+	</g>
+	<g transform="translate(323.2399849055763,243.68296005335446)">
+		<text transform="matrix(1 0 0 1 -5.0054 -0.4989)" class="st7 st8">Tokyo</text>
+		<text transform="matrix(1 0 0 1 0.2446 -33.203)" class="st7 st9">Japón</text>
+	</g>
+	<g transform="translate(280.766701100387,211.90360734431778)">
+		<text transform="matrix(1 0 0 1 -9.2345 -0.946)" class="st7 st8">Jakarta</text>
+		<text transform="matrix(1 0 0 1 -18.5459 -31.4148)" class="st7 st9">Indonesia</text>
+	</g>
+	<g transform="translate(481.2262216513944,313.8954937025345)">
+		<text transform="matrix(1 0 0 1 -6.1033 -0.9821)" class="st7 st10">Lagos</text>
+		<text transform="matrix(1 0 0 1 -9.3311 -17.5158)" class="st7 st8">Nigeria</text>
+	</g>
+	<g transform="translate(538.8731465634838,313.8954937025345)">
+		<text transform="matrix(1 0 0 1 -4.7088 -1.5733)" class="st7 st10">Cairo</text>
+	</g>
+	<g transform="translate(578.3876739239884,313.8954937025345)">
+		<text transform="matrix(1 0 0 1 -10.6905 -2.2568)" class="st7 st10">Alejandría</text>
+		<text transform="matrix(1 0 0 1 -25.5946 -28.7588)" class="st7 st8">Egipto</text>
+	</g>
+	<g transform="translate(510.1228278316262,360.86625872075115)">
+		<text transform="matrix(1 0 0 1 -21.5788 -13.1949)" class="st7 st10">Kinshasa-Brazzaville</text>
+		<text transform="matrix(1 0 0 1 -13.7663 1.777)" class="st11"><tspan x="0" y="0" class="st7 st8">República </tspan><tspan x="0" y="8.4" class="st7 st8">Democrática </tspan><tspan x="0" y="16.8" class="st7 st8">del Congo</tspan></text>
+	</g>
+	<g transform="translate(510.5162670056347,270.8332925089826)">
+		<text transform="matrix(1 0 0 1 -10.8926 -0.8213)" class="st7 st10">Mogadishu</text>
+		<text transform="matrix(1 0 0 1 -8.9439 -11.0602)" class="st7 st8">Somalia</text>
+	</g>
+	<g transform="translate(549.9297654270574,373.4787529992533)">
+		<text transform="matrix(1 0 0 1 -12.6234 2.0124)" class="st7 st10">Khartoum-Omdurman</text>
+		<text transform="matrix(1 0 0 1 -5.2084 -5.71)" class="st7 st8">Sudán</text>
+	</g>
+	<g transform="translate(545.3391890087163,255.46657942395794)">
+		<text transform="matrix(1 0 0 1 -6.1379 -0.5294)" class="st7 st10">Luanda</text>
+		<text transform="matrix(1 0 0 1 -7.1388 -9.6953)" class="st7 st8">Angola</text>
+	</g>
+	<g transform="translate(473.51179239647803,265.4274629318718)">
+		<text transform="matrix(1 0 0 1 -18.2708 2.0368)" class="st7 st10">Dar es Salaam</text>
+		<text transform="matrix(1 0 0 1 -11.3766 -6.4757)" class="st7 st8">Tanzania</text>
+	</g>
+	<g transform="translate(470.06511202145987,361.27084856934954)">
+		<text transform="matrix(1 0 0 1 -5.7061 0.2417)" class="st7 st10">Abiyán</text>
+		<text transform="matrix(1 0 0 1 -22.147 -7.4807)" class="st7 st8">Costa de Marfil</text>
+	</g>
+	<g transform="translate(578.5517132348044,262.0101826288022)">
+		<text transform="matrix(1 0 0 1 -15.4969 -1.2349)" class="st7 st10">Johannesburgo</text>
+		<text transform="matrix(1 0 0 1 -9.7112 -9.3425)" class="st7 st8">Sudáfrica</text>
+	</g>
+	<text transform="matrix(1 0 0 1 391.2478 468.4577)" class="st7 st10">Moscow</text>
+	<text transform="matrix(1 0 0 1 417.804 440.7118)" class="st7 st8">Rusia</text>
+	<text transform="matrix(1 0 0 1 423.1916 468.1121)" class="st7 st10">Saint Petersburg</text>
+	<text transform="matrix(1 0 0 1 480.2323 470.3561)" class="st7 st10">Estambul</text>
+	<text transform="matrix(1 0 0 1 480.226 458.6839)" class="st7 st8">Turquía</text>
+	<text transform="matrix(1 0 0 1 457.1429 519.0461)" class="st7 st10">Londres</text>
+	<text transform="matrix(1 0 0 1 449.3111 509.6179)" class="st7 st8">Reino Unido </text>
+	<text transform="matrix(1 0 0 1 459.0418 434.186)" class="st7 st10">Berlín</text>
+	<text transform="matrix(1 0 0 1 452.7993 426.5427)" class="st7 st8">Alemania</text>
+	<text transform="matrix(1 0 0 1 432.7162 414.1844)" class="st7 st10">Madrid</text>
+	<text transform="matrix(1 0 0 1 430.027 406.1386)" class="st7 st8">España</text>
+	<text transform="matrix(1 0 0 1 425.6207 528.2941)" class="st7 st10">Kiev</text>
+	<text transform="matrix(1 0 0 1 419.8464 519.9027)" class="st7 st8">Ucrania</text>
+	<text transform="matrix(1 0 0 1 486.0614 419.1977)" class="st7 st8">Roma</text>
+	<text transform="matrix(1 0 0 1 489.6927 427.4962)" class="st7 st10">Italia</text>
+	<text transform="matrix(1 0 0 1 497.2014 510.7355)" class="st7 st10">París</text>
+	<text transform="matrix(1 0 0 1 493.214 504.1212)" class="st7 st8">Francia</text>
+	<text transform="matrix(1 0 0 1 406.8955 416.1742)" class="st7 st10">Minsk</text>
+	<text transform="matrix(1 0 0 1 397.1236 410.8934)" class="st7 st8">Bielorrusia</text>
+	<g transform="translate(407.223108153062,166.70666826081077)">
+		<text transform="matrix(1 0 0 1 -12.9946 -2.0744)" class="st7 st10">São Paulo</text>
+	</g>
+	<g transform="translate(450.87734914402205,166.70666826081077)">
+		<text transform="matrix(1 0 0 1 -16.5069 -2.3314)" class="st7 st10">Río de Janeiro</text>
+	</g>
+	<g transform="translate(434.1138531098092,193.30116392519562)">
+		<text transform="matrix(1 0 0 1 -8.3695 -1.8173)" class="st7 st10">Salvador</text>
+		<text transform="matrix(1 0 0 1 -31.9847 1.6998)" class="st7 st8">Brazil</text>
+	</g>
+	<g transform="translate(434.11198382267827,140.12846405630955)">
+		<text transform="matrix(1 0 0 1 -6.3362 -1.8174)" class="st7 st10">Brasília</text>
+	</g>
+	<g transform="translate(411.449254343124,129.8214521211289)">
+		<text transform="matrix(1 0 0 1 -9.2209 -1.5603)" class="st7 st10">Fortaleza</text>
+	</g>
+	<g transform="translate(495.17510525438297,161.55641184293094)">
+		<text transform="matrix(1 0 0 1 -3.0891 -1.268)" class="st7 st10">Lima</text>
+		<text transform="matrix(1 0 0 1 -3.5071 -14.1325)" class="st7 st8">Perú</text>
+	</g>
+	<g transform="translate(479.35611007315043,204.3459412456727)">
+		<text transform="matrix(1 0 0 1 -6.2822 -0.532)" class="st7 st10">Bogotá</text>
+		<text transform="matrix(1 0 0 1 -11.5556 -12.1812)" class="st7 st8">Colombia</text>
+	</g>
+	<g transform="translate(478.261013372217,122.6449227497564)">
+		<text transform="matrix(1 0 0 1 -8.2496 -1.5562)" class="st7 st10">Santiago</text>
+		<text transform="matrix(1 0 0 1 -5.0147 -10.8788)" class="st7 st8">Chile</text>
+	</g>
+	<g transform="translate(449.59665370000266,103.8582034094837)">
+		<text transform="matrix(1 0 0 1 -7.8793 -1.7645)" class="st7 st10">Caracas</text>
+		<text transform="matrix(1 0 0 1 -13.3394 -12.9272)" class="st7 st8">Venezuela</text>
+	</g>
+	<g transform="translate(445.94933881467955,220.2557255171089)">
+		<text transform="matrix(1 -5.989417e-03 5.989417e-03 1 -13.9758 -0.1691)" class="st7 st10">Buenos Aires</text>
+		<text transform="matrix(1 0 0 1 -12.0959 -7.8111)" class="st7 st8">Argentina</text>
+	</g>
+	<g transform="translate(267.5185620747336,92.77889610964306)">
+		<text transform="matrix(1 0 0 1 -13.4521 -2.8757)" class="st7 st12">New York City</text>
+	</g>
+	<g transform="translate(303.5834054124121,92.77889610964306)">
+		<text transform="matrix(1 0 0 1 -9.8577 -2.3058)" class="st7 st12">Los Ángeles</text>
+	</g>
+	<g transform="translate(291.0325867452715,116.87347739575107)">
+		<text transform="matrix(1 0 0 1 -6.0878 -2.5908)" class="st7 st12">Chicago</text>
+	</g>
+	<g transform="translate(290.8639314236802,69.83738903295074)">
+		<text transform="matrix(1 0 0 1 -5.5113 -2.5907)" class="st7 st12">Houston</text>
+	</g>
+	<text transform="matrix(1 0 0 1 261.0563 59.4517)" class="st7 st12">Philadelphia</text>
+	<text transform="matrix(1 0 0 1 261.7747 45.5939)" class="st7 st8">Estados Unidos</text>
+	<g transform="translate(346.932876991812,90.79885540100352)">
+		<text transform="matrix(1 0 0 1 -6.6377 -4.888)" class="st11"><tspan x="0" y="0" class="st7 st12">Ciudad de</tspan><tspan x="0" y="6" class="st7 st12">México</tspan></text>
+	</g>
+	<text transform="matrix(1 0 0 1 370.6343 85.6436)" class="st11"><tspan x="0" y="0" class="st7 st12">Ecatepec</tspan><tspan x="0" y="6" class="st7 st12">de Morelos</tspan></text>
+	<text transform="matrix(1 0 0 1 350.1918 61.7403)" class="st7 st8">México</text>
+	<g transform="translate(316.1148883186215,139.86827732991145)">
+		<text transform="matrix(1 0 0 1 -5.2752 -2.0209)" class="st7 st12">Toronto</text>
+	</g>
+	<text transform="matrix(1 0 0 1 332.4939 138.1324)" class="st7 st12">Montreal</text>
+	<text transform="matrix(1 0 0 1 317.9055 153.7758)" class="st7 st8">Canadá</text>
+	<text transform="matrix(1 0 0 1 319.6493 54.8957)" class="st7 st12">Havana</text>
+	<text transform="matrix(1 0 0 1 319.5161 40.1108)" class="st7 st8">Cuba</text>
+</g>
+<g transform="translate(0,15.5)">
+	<g transform="translate(0, 0)">
+		<rect x="739.9" y="188.6" class="st3" width="15" height="15"/>
+		<text transform="matrix(1 0 0 1 759.9341 201.1083)" class="st7 st9">África</text>
+	</g>
+	<g transform="translate(0, 20.5)">
+		<rect x="739.9" y="188.6" class="st2" width="15" height="15"/>
+		<text transform="matrix(1 0 0 1 759.9341 201.1083)" class="st7 st9">Asia</text>
+	</g>
+	<g transform="translate(0, 41)">
+		<rect x="739.9" y="188.6" class="st4" width="15" height="15"/>
+		<text transform="matrix(1 0 0 1 759.9341 202.03)" class="st7 st9">Europa</text>
+	</g>
+	<g transform="translate(0, 61.5)">
+		<rect x="739.9" y="188.6" class="st6" width="15" height="15"/>
+		<text transform="matrix(1 0 0 1 760.5485 201.7227)" class="st7 st9">América del Norte</text>
+	</g>
+	<g transform="translate(0, 82)">
+		<rect x="739.9" y="188.6" class="st5" width="15" height="15"/>
+		<text transform="matrix(1 0 0 1 759.9341 201.1083)" class="st7 st9">América del Sur</text>
+	</g>
+</g>
+<text transform="matrix(0.9997 -2.624509e-02 2.624509e-02 0.9997 739.1002 189.21)" class="st13 st14">Continentes</text>
+</svg>
